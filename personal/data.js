@@ -84,8 +84,8 @@ var APP_DATA = {
         {
           "yaw": -2.511476696435439,
           "pitch": 0.20906090818722944,
-          "title": "Title",
-          "text": "Text"
+          "title": "personal computer",
+          "text": ""
         }
       ]
     },

@@ -33,7 +33,7 @@ var APP_DATA = {
         {
           "yaw": 1.3088342920268587,
           "pitch": 0.12557259939613807,
-          "title": "<br>",
+          "title": "電腦歷史博物館",
           "text": "電腦歷史博物館（英語：Computer History Museum，縮寫：CHM）是以電腦為主題的博物館，位在美國加州山景城"
         }
       ]
